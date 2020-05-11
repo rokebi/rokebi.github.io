@@ -1,0 +1,8 @@
+- name: 개발 노트
+  slug: dev-note
+- name: 스터디
+  slug: study
+- name: GitHub Pages
+  slug: github-pages
+- name: Drupal
+  slug: drupal
